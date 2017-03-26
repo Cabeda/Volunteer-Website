@@ -1,14 +1,17 @@
-# Volunteer
+# Volunteer Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
+[![Build Status](https://travis-ci.org/Cabeda/Volunteer-Website.svg?branch=master)](https://travis-ci.org/Cabeda/Volunteer-Website)
+[![Dependencies](https://david-dm.org/Cabeda/Volunteer-Website.svg)](https://david-dm.org/Cabeda/Volunteer-Website.svg)
 
-## Development server
+This is an WebApp that matches your tastes and time with the most suited Volunteer work for you
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Note
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+
+## Prerequesites
+
+Both the CLI and generated project have dependencies that require Node 6.9.0 or higher, together with NPM 3 or higher.
 
 ## Build
 
@@ -23,6 +26,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `ng serve`.
 
-## Further help
+## Licence
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+MIT
